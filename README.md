@@ -18,9 +18,9 @@
 # Projects (Old)
 
 1. Minecraft / Java:
-	- Plugin - "EB61 - Server Nuker"
-	- Plugin - "EB61 - ItemTag"
-	- Mod - "EB61 - T.A.S.M"
+	- Plugin - "ANX - Server Nuker"
+	- Plugin - "ANX - ItemTag"
+	- Mod - "ANX - T.A.S.M"
 
 ## More Coming Soon!
 
