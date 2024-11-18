@@ -20,7 +20,7 @@
 1. Minecraft / Java:
 	- Plugin - "EB61 - Server Nuker"
 	- Plugin - "EB61 - ItemTag"
-	- Mod - "EB61 - MekkaBots"
+	- Mod - "EB61 - T.A.S.M"
 
 ## More Coming Soon!
 
