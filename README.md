@@ -1,6 +1,6 @@
-# AgentNX | About Me
+# 📄 AgentNX | About Me
 
-## Who Am I?
+## 😎 Who Am I?
 
 - Java Programmer & Developer
 - Python Programmer & Developer
@@ -9,9 +9,9 @@
 - Computer Scientist & Engineer
 - and much more!
 
-## Certifications & Badges
+## 🥇 Certifications & Badges
 
-### Links & Validities Are Hidden Due To Privacy & Security Concerns
+### ⚠️ Links & Validities Are Hidden Due To Privacy & Security Concerns
 
 **1. Programming Languages**
 
@@ -36,4 +36,4 @@
 
 - SOON
 
-## IDK, that is it XDDDD
+## 🤡 IDK, that is it XDDDD
