@@ -1,16 +1,39 @@
-## Hi there 👋
+# AgentNX | About Me
 
-<!--
-**AgentNX/AgentNX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I?
 
-Here are some ideas to get you started:
+- Java Programmer & Developer
+- Python Programmer & Developer
+- Minecraft Developer
+- Embedded Systems Enthusiast
+- Computer Scientist & Engineer
+- and much more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications & Badges
+
+### Links & Validities Are Hidden Due To Privacy & Security Concerns
+
+**1. Programming Languages**
+
+- PCEP™ – Certified Entry-Level Python Programmer
+- CLE™ – C Certified Entry-Level Programmer
+- CPE™ – C++ Certified Entry-Level Programmer
+
+**2. Minecraft**
+
+- Microsoft | Minecraft Education | Minecraft Student Ambassador Program
+- Microsoft | Minecraft Education | Minecraft Minecraft Trainer Academy
+
+**3. Artificial Intelligence**
+
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure AI Engineer Associate
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Azure Data Scientist Associate
+
+**4. Cyber Security**
+
+- SOON
+
+## IDK, that is it XDDDD
