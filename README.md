@@ -31,6 +31,7 @@
 - Microsoft Certified: Azure AI Engineer Associate
 - Microsoft Certified: Azure Data Fundamentals
 - Microsoft Certified: Azure Data Scientist Associate
+- Microsoft Certified: Azure Data Engineer Associate
 
 **4. Cyber Security**
 
