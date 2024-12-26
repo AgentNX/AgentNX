@@ -2,12 +2,12 @@
 
 ## 😎 Who Am I?
 
-- Java Programmer & Developer
-- Python Programmer & Developer
+- Java Programmer & Developer 
+- Python Programmer & Developer (Learning) 
 - Minecraft Developer
 - Embedded Systems Enthusiast
 - Computer Scientist & Engineer
-- and much more!
+- Goofy ahh mf
 
 ## 🥇 Certifications & Badges
 
@@ -37,4 +37,9 @@
 
 - SOON
 
-## 🤡 IDK, that is it XDDDD
+## Currently Learning
+
+- Reactive Programming In (Java)
+- Machine Learning
+- Deep Learning
+- Chaos Engineering in Microservices (Java)
