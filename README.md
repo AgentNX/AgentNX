@@ -37,7 +37,7 @@
 
 - SOON
 
-## Currently Learning
+## 📗 Currently Learning
 
 - Reactive Programming In (Java)
 - Machine Learning
