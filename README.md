@@ -1,3 +1,3 @@
-# AgentNX | About Me
-
-Something, someone, somewhen, whenever, wherever, whatever, whoever
+## Something, someone, somewhen, somewhere,
+## Whatever, whoever, whenever, wherever,
+## Anything, anyone, anywhen, anywhere.
