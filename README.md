@@ -41,9 +41,9 @@
 
 # 🌏 Languages
 
-- **Mongolian** (Native)
+- **Mongolian** (Native, Fluent)
+- **Russian** (Native, Fluent)
 - **English** (Fluent)
-- **Russian** (Fluent)
 - **Spanish** (Intermediate)
 - **Japanese** (Beginner)
 - **French** (Beginner)
