@@ -7,10 +7,6 @@
 - **Data Analyst/Engineer**
 - **Medical Science Student**
 
-### Something, someone, somewhen, somewhere,
-### Whatever, whoever, whenever, wherever,
-### Anything, anyone, anywhen, anywhere.
-
 # 🏆 Certifications & Licenses
 
 📄 1. [Data Analyst Associate](https://www.datacamp.com/certification/data-analyst)  
@@ -54,7 +50,7 @@
 
 # 🏢 Projects (Work & Personal)
 
-**TBA**
+**PRIVATE (FOR NOW)**
 
 ## AgentNX's GitHub Statistics
 ![AgentNX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgentNX)
@@ -62,4 +58,6 @@
 ## AgentNX's Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgentNX&layout=compact&theme=radical)
 
-# Someday, I will make it...
+## Something, someone, somewhen, somewhere,
+## Whatever, whoever, whenever, wherever,
+## Anything, anyone, anywhen, anywhere.
