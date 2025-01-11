@@ -13,11 +13,11 @@
 
 # 🏆 Certifications & Licenses
 
-📄 1. [Data Analyst Associate](https://www.datacamp.com/certification/data-analyst)
-📄 2. [Python Data Associate](https://www.datacamp.com/certification/python-data-associate)
-📄 3. [Artificial Intelligence Fundamentals](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1)
-📄 4. [Deep Learning on Generative AI](https://sites.google.com/view/dlub)
-📄 5. [Minecraft Trainer/Teacher](https://education.minecraft.net/en-us/trainings/my-minecraft-journey)
+📄 1. [Data Analyst Associate](https://www.datacamp.com/certification/data-analyst)  
+📄 2. [Python Data Associate](https://www.datacamp.com/certification/python-data-associate)  
+📄 3. [Artificial Intelligence Fundamentals](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1)  
+📄 4. [Deep Learning on Generative AI](https://sites.google.com/view/dlub)  
+📄 5. [Minecraft Trainer/Teacher](https://education.minecraft.net/en-us/trainings/my-minecraft-journey)  
 
 #### ⚠️ Personal links aren't provided due to privacy & security concerns
 
@@ -33,7 +33,7 @@
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, Jupyter
 - **Big Data**: Apache Hadoop, Apache Spark
 - **Machine Learning & AI**: Scikit-Learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM, OpenCV
-- **Minecraft & Java Development**: Modding, Plugins, Server Management, Server Config, Resource Packs, Data Packs, Addons, Mechanisms
+- **Minecraft & Java Development**: Modding, Plugins, Server Management, Server Config, Resource Packs, Data Packs, etc.
 
 # 🧑‍🎓 Education
 
