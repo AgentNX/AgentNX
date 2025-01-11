@@ -5,7 +5,7 @@
 - **Artificial Intelligence Student**
 - **Minecraft Developer**
 - **Data Analyst/Engineer**
-- **Medical Science Student**
+- **Medical Science Associate**
 
 # 🏆 Certifications & Licenses
 
