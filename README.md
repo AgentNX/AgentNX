@@ -37,7 +37,7 @@
 
 # 🧑‍🎓 Education
 
-- **Bachelor of Artificial Intelligence**, ~~<redacted>~~ Institute of Technology (2023 - 2027)
+- **Bachelor of Artificial Intelligence**, ~~redacted~~ Institute of Technology (2023 - 2027)
 
 # 🌏 Languages
 
