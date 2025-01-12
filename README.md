@@ -7,13 +7,14 @@
 - **Data Analyst/Engineer**
 - **Medical Science Associate**
 
-# 🏆 Certifications & Licenses
+# 🏆 Certifications, Licenses & Badges
 
 📄 1. [Data Analyst Associate](https://www.datacamp.com/certification/data-analyst)  
 📄 2. [Python Data Associate](https://www.datacamp.com/certification/python-data-associate)  
 📄 3. [Artificial Intelligence Fundamentals](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-artificial-intelligence-1)  
 📄 4. [Deep Learning on Generative AI](https://sites.google.com/view/dlub)  
 📄 5. [Minecraft Trainer/Teacher](https://education.minecraft.net/en-us/trainings/my-minecraft-journey)  
+📄 6. [Cisco IT Essentials](https://www.netacad.com/courses/it-essentials-7?courseLang=en-US)
 
 #### ⚠️ Personal links aren't provided due to privacy & security concerns
 
